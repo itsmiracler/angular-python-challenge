@@ -1,0 +1,10 @@
+<svg width="172" height="21" viewBox="0 0 172 21" xmlns="http://www.w3.org/2000/svg">
+  <!-- Angular Shield -->
+  <polygon points="36,1 4,19 36,15 68,19" fill="#DD0031"/>
+  <polygon points="36,1 29,15 36,14 43,15" fill="#C3002F"/>
+  <!-- Python Snakes -->
+  <path d="M22,8 Q24,6 26,8 Q28,10 30,8 Q32,6 34,8 Q36,10 38,8 Q40,6 42,8 L42,16 Q40,18 38,16 Q36,14 34,16 Q32,18 30,16 Q28,14 26,16 Q24,18 22,16 Z" fill="#3776AB"/>
+  <path d="M38,8 Q36,10 34,8 Q32,6 30,8 Q28,10 26,8 Q24,6 22,8 L22,16 Q24,18 26,16 Q28,14 30,16 Q32,18 34,16 Q36,14 38,16 Q40,18 42,16 Z" fill="#FFD43B"/>
+  <!-- Text -->
+  <text x="70" y="18" font-family="Open Sans, sans-serif" font-size="18" fill="#000">Code Test</text>
+</svg>
